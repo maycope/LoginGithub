@@ -1,0 +1,4 @@
+github:
+  client_id: # 填写自己cliet_id
+  client_secret: # 填写自己client_secret
+  redirect_uri: http://localhost:8887/githubCallback

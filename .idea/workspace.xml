@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59786d43-5ffc-4758-bed4-d6276414e9b7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bKwY4qmQwoW27SoONpUTstglBV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/images" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\miaosha-idea\project\s2gciy\miaosha_2\src\main\resources\static\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MainApplication">
+    <configuration name="MD5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.miaosha.util.MD5Util" />
+      <module name="miaosha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.miaosha.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="miaosha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.miaosha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.miaosha.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainApplication" />
+        <item itemvalue="Application.MD5Util" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59786d43-5ffc-4758-bed4-d6276414e9b7" name="Default Changelist" comment="" />
+      <created>1588394136102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588394136102</updated>
+      <workItem from="1588394140530" duration="9395000" />
+      <workItem from="1588430170994" duration="4154000" />
+      <workItem from="1588469412734" duration="1247000" />
+      <workItem from="1589111832025" duration="5194000" />
+      <workItem from="1589183144561" duration="7376000" />
+      <workItem from="1589199637640" duration="159000" />
+      <workItem from="1589199826167" duration="15847000" />
+      <workItem from="1589243699497" duration="7404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588402858611">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1588402858611" />
+    <state x="598" y="297" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589112015089">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="598" y="297" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1589112015089" />
+    <state x="338" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1589204565621">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="338" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1589204565621" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1588472044363">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1588472044363" />
+    <state width="1493" height="411" key="GridCell.Tab.0.bottom" timestamp="1589251609322">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="411" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589251609322" />
+    <state width="1493" height="411" key="GridCell.Tab.0.center" timestamp="1589251609321">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="411" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589251609321" />
+    <state width="1493" height="411" key="GridCell.Tab.0.left" timestamp="1589251609320">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="411" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589251609320" />
+    <state width="1493" height="411" key="GridCell.Tab.0.right" timestamp="1589251609321">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="411" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589251609321" />
+    <state width="1493" height="411" key="GridCell.Tab.1.bottom" timestamp="1589251609323">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="411" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589251609323" />
+    <state width="1493" height="411" key="GridCell.Tab.1.center" timestamp="1589251609322">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="411" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1589251609322" />
+    <state width="1493" height="411" key="GridCell.Tab.1.left" timestamp="1589251609322">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="411" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1589251609322" />
+    <state width="1493" height="411" key="GridCell.Tab.1.right" timestamp="1589251609322">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="411" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1589251609322" />
+    <state width="1493" height="157" key="GridCell.Tab.2.bottom" timestamp="1589215827859">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589215827859" />
+    <state width="1493" height="157" key="GridCell.Tab.2.center" timestamp="1589215827859">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1589215827859" />
+    <state width="1493" height="157" key="GridCell.Tab.2.left" timestamp="1589215827859">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1589215827859" />
+    <state width="1493" height="157" key="GridCell.Tab.2.right" timestamp="1589215827859">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1589215827859" />
+    <state x="270" y="59" key="SettingsEditor" timestamp="1589212801378">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589212801378" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1589206059918">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1589206059918" />
+    <state x="0" y="0" width="811" height="834" key="find.popup" timestamp="1589213082320">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="0" width="811" height="834" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1589213082320" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1589247008874">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1589247008874" />
+    <state x="773" y="155" key="search.everywhere.popup" timestamp="1589201154135">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="773" y="155" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1589201154134" />
+  </component>
+</project>
